@@ -2,7 +2,7 @@
 
 #This portion of the coding till the end of second distribution plot is done by Sai Krishna Lakshminarayanan (18230229)Data Analytics
 
-# Importing the packages required for executing the algorithm
+#Importing the packages required for executing the algorithm
 
 #install the missing packages if any is present
 
